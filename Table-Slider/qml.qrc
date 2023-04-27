@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TableViews.qml</file>
+        <file>Silders.qml</file>
+        <file>SliderY.qml</file>
+        <file>SliderZ.qml</file>
+    </qresource>
+</RCC>
