@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StartStop.qml</file>
+        <file>PauseRun.qml</file>
+        <file>Switches.qml</file>
+        <file>Home.qml</file>
+        <file>ButtonHover.qml</file>
+    </qresource>
+</RCC>
